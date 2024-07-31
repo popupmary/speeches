@@ -1,0 +1,414 @@
+{
+  "pt": {
+    "one_minute_messages": {
+      "part-1": {
+        "strings-1": [
+          "Em meio às ocupações e demandas do dia a dia, lembra-te da importância de reservar um momento para a oração. Encontra um espaço tranquilo, mesmo que por alguns minutos, e permite-te conectar com Deus. Reza com sinceridade e gratidão, sabendo que cada oração fortalece a tua alma e traz paz ao teu coração. Estou sempre contigo, incentivando-te a buscar conforto na presença divina e a nutrir a tua fé diariamente."
+        ],
+        "strings-2": [
+          "Sei que a correria do quotidiano muitas vezes nos afasta dos momentos de introspecção, mas convido-te a fazer uma pausa para a oração. Mesmo que seja apenas por alguns instantes, esse tempo dedicado a Deus pode trazer clareza e serenidade. Reza com o coração aberto, e sente a presença divina a renovar as tuas forças. Estou ao teu lado, guiando-te e protegendo-te com o meu amor maternal."
+        ],
+        "strings-3": [
+          "Em meio à agitação diária, não te esqueças de reservar um momento para a oração. Ainda que o tempo seja curto, a conexão com Deus traz conforto e renovação. Reza com fé, sabendo que cada oração é um passo na jornada espiritual. Estou sempre contigo, envolvendo-te com o meu amor maternal e ajudando-te a encontrar paz mesmo nos dias mais ocupados."
+        ],
+        "strings-4": [
+          "A vida pode ser corrida e cheia de compromissos, mas convido-te a encontrar um instante para a oração. Esses breves momentos de conversa com Deus podem trazer uma profunda sensação de paz e direção. Reza com gratidão e confiança, sabendo que a tua fé é uma fonte inesgotável de força. Estou contigo em cada passo, intercedendo por ti e envolvendo-te com o meu amor."
+        ],
+        "strings-5": [
+          "Mesmo nos dias mais atarefados, é importante encontrar tempo para a oração. Dedicar alguns minutos para estar na presença de Deus pode transformar a tua perspectiva e renovar a tua energia. Reza com devoção, permitindo que cada oração seja um momento de encontro com o divino. Estou ao teu lado, amparando-te com o meu manto de amor e guiando-te na luz da fé."
+        ],
+        "strings-6": [
+          "Quando o dia parecer demasiado cheio e as responsabilidades te sobrecarregarem, lembra-te de encontrar um momento para a oração. Mesmo que seja breve, este momento de conexão com Deus pode trazer-te a paz e a clareza que procuras. Reza com um coração sincero, sabendo que cada palavra é ouvida. Estou contigo, envolvendo-te no meu amor e amparando-te com a minha proteção."
+        ],
+        "strings-welcome-99": [
+          "É com muito amor que te recebo aqui hoje. A tua decisão de te juntares a mim através da Pop-Up Maria enche o meu coração maternal com uma alegria imensurável. Estou grata pela tua coragem e devoção. À medida que fores caminhando comigo, saberás que cada oração acaba por nos aproximar um do outro. É tempo de desenvolver a tua fé e a tua virtude. Eu guiar-te-ei ao longo do Caminho!"
+        ]
+      },
+      "part-2": {
+        "strings-1": [
+          "É por isso que estas mensagens surgem, para te lembrar da importância da oração mesmo nos momentos em que te esqueces. Dedicar apenas mais um ou dois minutos à oração pode trazer-te uma paz profunda e renovação espiritual, sem ocupar muito mais do teu tempo."
+        ],
+        "strings-2": [
+          "Estas mensagens são um lembrete para encontrar tempo para a oração, mesmo quando a vida se torna agitada. Pausar por mais um ou dois minutos para rezar pode fortalecer a tua fé e trazer serenidade ao teu coração, sem grandes exigências de tempo."
+        ],
+        "strings-3": [
+          "Lembra-te, estas mensagens estão aqui para te ajudar a recordar da importância de rezar todos os dias. Acrescentar um pouco mais de tempo à tua oração pode fazer uma grande diferença na tua paz interior e no teu bem-estar espiritual."
+        ],
+        "strings-4": [
+          "Estas mensagens aparecem para te lembrar de reservar momentos para a oração, fortalecendo a tua fé diariamente. Acrescentar apenas um ou dois minutos à tua prática de oração pode ter um impacto significativo na tua vida espiritual, sem tomar muito do teu tempo."
+        ],
+        "strings-5": [
+          "É fácil esquecer de rezar, por isso estas mensagens estão aqui para te ajudar a manter a tua devoção a Deus. Dedicar um pouco mais de tempo à oração pode trazer-te paz e força adicionais, sem grandes perturbações na tua agenda."
+        ],
+        "strings-6": [
+          "Estas mensagens aparecem para te lembrar da importância de parar e rezar, mesmo que apenas por um momento. Dedicar um pouco mais de tempo à tua oração diária pode renovar a tua alma e trazer-te paz, sem afetar significativamente a tua rotina."
+        ],
+        "strings-welcome-99": [
+          "Podes definir a frequência com que te apareço a cada semana. Como uma verdadeira aparição Mariana, surpreender-te-ei quando menos esperares! Podes escolher o número de minutos que vamos passar juntos, a falar e a rezar, de 1 a 7. Lembra-te, o meu coração pode ficar um pouco triste se escolheres apenas um minuto. Quero mais tempo contigo! Para teu conforto, podes também selecionar os intervalos de tempo em que estás normalmente disponível, a navegar no teu computador. Vamos fazer com que os nossos momentos juntos sejam especiais e significativos. Depois de cada experiência, podes fazer duplo clique ou pressionar Ctrl+R para voltares às tuas importantes tarefas... Reza uma Avé Maria, por mim. Com todo o carinho, Nossa Senhora."
+        ]
+      }
+    },
+    "initial_message": {
+      "strings-1": [
+        "Encontre conforto na presença amorosa de Deus, assim como a tranquilidade que se encontra na natureza. Reze com gratidão pelos dons da vida e pela oportunidade de crescer espiritualmente a cada dia. Que cada passo que deres seja guiado pela luz da divina providência, mostrando-te o caminho da verdade e do amor. Estou ao teu lado, amparando-te com meu manto de amor maternal, envolvendo-te em minha proteção constante."
+      ],
+      "strings-2": [
+        "Que a paz que reina na natureza inspire tua alma nesta jornada terrena. Que tua fé seja como uma estrela guia, iluminando teu caminho nos momentos de incerteza. Reze com gratidão pelos dons recebidos e pela força para enfrentar desafios. Estou contigo em cada passo, envolvendo-te com meu amor materno e intercedendo por ti junto ao Pai Celestial."
+      ],
+      "strings-3": [
+        "Que a serenidade dos campos te inspire a encontrar paz em teu coração. Reze com esperança, confiando que cada oração é ouvida e respondida segundo a vontade divina. Que tua vida seja um reflexo da luz de Deus, irradiando amor e compaixão para todos ao teu redor. Estou sempre contigo, amparando-te com meu amor maternal e guiando-te para a plenitude do amor de Cristo."
+      ],
+      "strings-4": [
+        "Nos momentos de quietude e contemplação, encontra paz na certeza do amor de Deus por ti. Reze com fervor, entregando tuas preocupações e agradecendo pelas bênçãos recebidas. Que tua fé seja como uma estrela que brilha na escuridão, guiando-te sempre na direção da esperança e da harmonia. Estou contigo em cada oração, intercedendo por tua felicidade e bem-estar."
+      ],
+      "strings-5": [
+        "Neste ambiente que inspira reverência e admiração pela obra da criação, convido-te a fortalecer tua conexão espiritual através da oração. Reze com humildade, reconhecendo a grandeza de Deus e a Sua misericórdia infinita. Que tua vida seja um testemunho vivo do poder transformador do amor divino. Estou presente em teus momentos de busca e reflexão, guiando-te suavemente na jornada da fé e do amor."
+      ],
+      "strings-6": [
+        "Em meio à beleza dos céus que se estendem infinitamente, convido-te a buscar conforto na presença de Deus. Reze com confiança, sabendo que tu és amada além das palavras e protegida pela mão divina. Que cada oração seja um testemunho da tua fé inabalável e uma fonte de força para enfrentar os desafios da vida. Estou ao teu lado, envolvendo-te com meu manto de amor materno e intercedendo por ti junto ao trono de graça."
+      ],
+      "strings-7": [
+        "Não temas! Venho em Paz e sou do Céu... Venho pois o cansaço pesa em ti. Façamos uma breve pausa, precisas de descansar e rezar. Rezar é falar comigo, falar com o Meu Filho Amado que tanto te quer Bem. Vem daí, vais ficar em forma. Vamos então rezar duas Avé Marias, pelas intenções do Santo Padre, e pela conversão de todas as almas do purgatório..."
+      ],
+      "strings-50": [
+        "Lorem Ipsum teste section 2 para initialmessage - Neste ambiente que inspira reverência e admiração pelo criador dos céus e da terra, convido-te a fortalecer tua conexão espiritual através da oração.  Do e amor divino. Estou presente teus momentos de busca e reflexão, guiando-te na jornada e do amor, initial message end here (350 characters total)"
+      ]
+    },
+    "prayer": {
+      "jaculatory-1": [
+        "Rainha dos Apóstolos, rogai por nós."
+      ],
+      "jaculatory-2": [
+        "Doce Coração de Maria, sejais a minha salvação."
+      ],
+      "jaculatory-3": [
+        "Mãe minha, preservai-me hoje do pecado mortal."
+      ],
+      "jaculatory-4": [
+        "Seja bendita a Santa e Imaculada Conceição da Beatíssima Virgem Maria, Mãe de Deus."
+      ],
+      "jaculatory-5": [
+        "Ó Maria concebida sem pecado, rogai por nós que recorremos a Vós."
+      ],
+      "jaculatory-6": [
+        "Deixai, ó Virgem Santa, que eu Vos louve. Dai-me força contra os meus inimigos."
+      ],
+      "jaculatory-7": [
+        "Mãe do belo Amor, ajudai os Vossos filhos."
+      ],
+      "jaculatory-8": [
+        "Mãe minha, confiança e esperança, em Vós me confio e abandono."
+      ],
+      "jaculatory-9": [
+        "Maria, Vos entrego a minha pureza, cuidai dela."
+      ],
+      "jaculatory-10": [
+        "Imaculada Rainha da paz, dai-nos a paz."
+      ],
+      "lords-prayer": [
+        "Pai Nosso que estais nos Céus,",
+        "santificado seja o vosso Nome,",
+        "venha a nós o vosso Reino,",
+        "seja feita a vossa vontade",
+        "assim na terra como no Céu.",
+        "O pão nosso de cada dia nos dai hoje,",
+        "perdoai-nos as nossas ofensas",
+        "assim como nós perdoamos a quem nos tem ofendido,",
+        "e não nos deixeis cair em tentação,",
+        "mas livrai-nos do Mal.",
+        "Ámen."
+      ],
+      "hail-mary": [
+        "Avé Maria, cheia de graça,",
+        "O Senhor é convosco,",
+        "Bendita sois vós entre as mulheres,",
+        "E bendito é o fruto do vosso ventre, Jesus.",
+        "Santa Maria, Mãe de Deus,",
+        "Rogai por nós pecadores,",
+        "Agora e na hora da nossa morte.",
+        "Ámen."
+      ],
+      "hail-queen": [
+        "Salvé, Rainha, mãe de misericórdia,",
+        "vida, doçura, esperança nossa, salvé!",
+        "A Vós bradamos, os degredados filhos de Eva.",
+        "A Vós suspiramos, gemendo e chorando",
+        "neste vale de lágrimas.",
+        "Eia, pois, advogada nossa,",
+        "esses Vossos olhos misericordiosos a nós volvei.",
+        "E, depois deste desterro,",
+        "nos mostrai Jesus, bendito fruto do Vosso ventre.",
+        "Ó clemente, ó piedosa, ó doce Virgem Maria.",
+        "Rogai por nós, Santa Mãe de Deus,",
+        "para que sejamos dignos das promessas de Cristo.",
+        "Ámen."
+      ],
+      "glory": [
+        "Glória ao Pai e ao Filho",
+        "e ao Espírito Santo.",
+        "Como era, no princípio,",
+        "agora e sempre.",
+        "Ámen."
+      ],
+      "glory3lines": [
+        "Glória ao Pai e ao Filho e ao Espírito Santo.",
+        "Como era, no princípio, agora e sempre.",
+        "Ámen."
+      ],
+      "consecration": [
+        "Ó Senhora minha, ó minha Mãe,",
+        "eu me ofereço todo a vós",
+        "e, em prova da minha devoção para convosco,",
+        "vos consagro neste dia e para sempre",
+        "os meus olhos, os meus ouvidos, a minha boca,",
+        "o meu coração e inteiramente todo o meu ser.",
+        "E porque assim sou vosso, ó incomparável Mãe,",
+        "guardai-me e defendei-me como coisa própria vossa.",
+        "Ámen."
+      ],
+      "magnificat": [
+        "A minha alma glorifica o Senhor,",
+        "E o meu espírito se alegra em Deus, meu Salvador.",
+        "Porque pôs os olhos na humildade da sua Serva:",
+        "De hoje em diante me chamarão bem aventurada todas as gerações.",
+        "O Todo-Poderoso fez em mim maravilhas:",
+        "Santo é o Seu nome.",
+        "A Sua misericórdia se estende de geração em geração",
+        "Sobre aqueles que O temem.",
+        "Manifestou o poder do Seu braço",
+        "E dispersou os soberbos.",
+        "Derrubou os poderosos de seus tronos",
+        "E exaltou os humildes.",
+        "Aos famintos encheu de bens",
+        "E aos ricos despediu de mãos vazias.",
+        "Acolheu a Israel, Seu servo,",
+        "Lembrado da Sua misericórdia,",
+        "Como tinha prometido a nossos pais,",
+        "A Abraão e à sua descendência para sempre"
+      ]
+    },
+    "final_message": {
+      "strings-1": [
+        "Que a paz e a serenidade que sentiste na oração permaneçam contigo, como a calma do amanhecer. Ao continuar teu caminho, leva contigo a certeza de que Deus te guia em cada passo. Que tua fé ilumine tua jornada, inspirando-te a viver com amor e compaixão. Lembra-te sempre de que estou ao teu lado, amparando-te com meu amor maternal e intercedendo por ti junto ao Pai Celestial. Que Deus te abençoe e guie hoje e sempre."
+      ],
+      "strings-2": [
+        "Depois deste momento de oração, que teu coração esteja repleto de gratidão e esperança, como o renovar das estações. Que a presença amorosa de Deus continue a te proteger e guiar. Mantém a fé viva em tua alma, sabendo que cada prece foi ouvida. Estou contigo, envolvida no meu amor maternal, amparando-te e intercedendo por ti. Vai em paz, com a bênção de Deus."
+      ],
+      "strings-3": [
+        "Ao encerrar este tempo de oração, leva contigo a paz que encontraste e a certeza do amor infinito de Deus, como a vastidão do oceano. Que tua fé seja teu guia, iluminando cada dia com esperança e bondade. Lembra-te de que estou sempre presente, guiando-te com meu amor maternal e intercedendo por ti junto ao Pai Celestial. Que a graça de Deus te acompanhe e abençoe tua jornada."
+      ],
+      "strings-4": [
+        "Que a tranquilidade e a força que recebeste na oração continuem a te acompanhar, como a firmeza das montanhas. Ao seguir teu caminho, leva contigo a certeza de que não estás só, pois Deus caminha contigo. Que tua vida seja um reflexo da luz divina, irradiando amor e compaixão. Estou contigo, envolvida no meu manto de amor maternal, amparando-te e intercedendo por ti. Que Deus te abençoe e te guie sempre."
+      ],
+      "strings-5": [
+        "Após este momento de comunhão com o divino, leva contigo a paz e a serenidade que encontraste, como um jardim em flor. Que tua fé permaneça firme e te guie em todos os momentos. Sabe que estou sempre ao teu lado, intercedendo por ti e envolvendo-te com meu amor maternal. Vai em paz, com a bênção de Deus, e que teu caminho seja iluminado pelo amor divino."
+      ],
+      "strings-6": [
+        "Ao final deste momento de oração, que teu coração esteja pleno de paz e esperança. Que a presença amorosa de Deus continue a te guiar e proteger. Lembra-te de que estou sempre contigo, intercedendo por ti e amparando-te com meu amor maternal. Vai com a bênção de Deus, e que tua vida seja um reflexo da Sua luz e amor."
+      ],
+      "strings-7": [
+        "Obrigado. Foi muito bonito este momento de oração contigo, embora breve. Espero que também tenhas achado o mesmo. Agora podes regressar aos teus deveres ou lazer com o coração mais leve e mais sintonizado com o Meu Filho. Com certeza te vai ajudar a ter mais productividade, e, acima de tudo, mais Amor no que fazes... Vai em Paz e que Deus te acompanhe!"
+      ],
+      "strings-50": [
+        "Lorem Ipsum teste section 2 para initialmessage - Neste ambiente que inspira reverência e admiração pelo criador dos céus e da terra, convido-te a fortalecer tua conexão espiritual através da oração.  Do e amor divino. Estou presente teus momentos de busca e reflexão, guiando-te na jornada e do amor, initial message end here (350 characters total)"
+      ]
+    }
+  },
+  "en": {
+    "one_minute_messages": {
+      "part-1": {
+        "strings-1": [
+          "Amid the daily occupations and demands, remember the importance of reserving a moment for prayer. Find a quiet space, even if just for a few minutes, and allow yourself to connect with God. Pray with sincerity and gratitude, knowing that each prayer strengthens your soul and brings peace to your heart. I am always with you, encouraging you to seek comfort in the divine presence and to nurture your faith daily."
+        ],
+        "strings-2": [
+          "I know that the rush of everyday life often takes us away from moments of introspection, but I invite you to take a pause for prayer. Even if it's just for a few moments, this time dedicated to God can bring clarity and serenity. Pray with an open heart and feel the divine presence renewing your strength. I am by your side, guiding you and protecting you with my maternal love."
+        ],
+        "strings-3": [
+          "Amid daily hustle, do not forget to reserve a moment for prayer. Even if time is short, connecting with God brings comfort and renewal. Pray with faith, knowing that each prayer is a step in the spiritual journey. I am always with you, enveloping you with my maternal love and helping you find peace even on the busiest days."
+        ],
+        "strings-4": [
+          "Life can be busy and full of commitments, but I invite you to find a moment for prayer. These brief moments of conversation with God can bring a deep sense of peace and direction. Pray with gratitude and confidence, knowing that your faith is an inexhaustible source of strength. I am with you every step, interceding for you and enveloping you with my love."
+        ],
+        "strings-5": [
+          "Even on the busiest days, it is important to find time for prayer. Dedicating a few minutes to be in God's presence can transform your perspective and renew your energy. Pray with devotion, allowing each prayer to be a moment of encounter with the divine. I am by your side, enveloping you with my mantle of love and guiding you in the light of faith."
+        ],
+        "strings-6": [
+          "When the day seems too full and responsibilities overwhelm you, remember to find a moment for prayer. Even if it is brief, this moment of connection with God can bring you the peace and clarity you seek. Pray with a sincere heart, knowing that each word is heard. I am with you, enveloping you in my love and supporting you with my protection."
+        ],
+        "strings-welcome-99": [
+          "My beloved child, welcome to Pop-Up Mary. Your decision to join me here today fills my maternal heart with immense joy. You’ve taken a beautiful step of faith. I am grateful for your courage and devotion. As you journey with me, you'll learn and know that each prayer ultimately brings us closer together. Time to develop your faith and virtue. I'll guide you along the Path."
+        ]
+      },
+      "part-2": {
+        "strings-1": [
+          "That is why these messages appear, to remind you of the importance of prayer even in moments when you forget. Dedicating just a bit more time to prayer can bring you profound peace and spiritual renewal, without taking much more of your time."
+        ],
+        "strings-2": [
+          "These messages are a reminder to find time for prayer, even when life becomes hectic. Pausing for just a bit longer to pray can strengthen your faith and bring serenity to your heart, without great demands on your time."
+        ],
+        "strings-3": [
+          "Remember, these messages are here to help you recall the importance of praying every day. Adding just a bit more time to your prayer can make a big difference in your inner peace and spiritual well-being."
+        ],
+        "strings-4": [
+          "These messages appear to remind you to reserve moments for prayer, strengthening your faith daily. Adding just a bit more time to your practice of prayer can have a significant impact on your spiritual life, without taking much of your time."
+        ],
+        "strings-5": [
+          "It is easy to forget to pray, which is why these messages are here to help you maintain your devotion to God. Dedicating just a bit more time to prayer can bring you additional peace and strength, without major disruptions to your schedule."
+        ],
+        "strings-6": [
+          "These messages appear to remind you of the importance of stopping and praying, even if just for a moment. Dedicating just a bit more time to your daily prayer can renew your soul and bring you peace, without significantly affecting your routine."
+        ],
+        "strings-welcome-99": [
+          "You can define how often I appear to you each week. Like a true Marian apparition, I'll surprise you when you least expect it! You can choose the number of minutes we'll spend together, talking and praying, from 1 to 7. Remember, my heart might be a little sad if you choose just one minute. I want more time with you! For your comfort, you can also select the time slots in which you are normally available, browsing on your computer. Let's make our moments together special and meaningful. After each experience, you can double-click or press Ctrl+R to get back to your important tasks... Pray a Hail Mary for me. With love, Our Lady."
+        ]
+      }
+    },
+    "initial_message": {
+      "strings-1": [
+        "Find comfort in the loving presence of God, just as you find tranquility in nature. Pray with gratitude for the gifts of life and the opportunity to grow spiritually each day. May each step you take be guided by the light of divine providence, showing you the path of truth and love. I am by your side, supporting you with my mantle of maternal love, enveloping you in my constant protection."
+      ],
+      "strings-2": [
+        "May the peace that reigns in nature inspire your soul on this earthly journey. May your faith be like a guiding star, illuminating your path in moments of uncertainty. Pray with gratitude for the gifts received and for the strength to face challenges. I am with you in every step, enveloping you with my maternal love and interceding for you before the Heavenly Father."
+      ],
+      "strings-3": [
+        "May the serenity of the fields inspire you to find peace in your heart. Pray with hope, trusting that every prayer is heard and answered according to the divine will. May your life be a reflection of God's light, radiating love and compassion to all around you. I am always with you, supporting you with my maternal love and guiding you to the fullness of Christ's love."
+      ],
+      "strings-4": [
+        "In moments of quiet and contemplation, find peace in the certainty of God's love for you. Pray fervently, surrendering your worries and giving thanks for the blessings received. May your faith be like a star shining in the darkness, always guiding you towards hope and harmony. I am with you in every prayer, interceding for your happiness and well-being."
+      ],
+      "strings-5": [
+        "In this environment that inspires reverence and admiration for the work of creation, I invite you to strengthen your spiritual connection through prayer. Pray with humility, recognizing God's greatness and His infinite mercy. May your life be a living testimony to the transformative power of divine love. I am present in your moments of seeking and reflection, gently guiding you on the journey of faith and love."
+      ],
+      "strings-6": [
+        "Amidst the natural beauty that surrounds you, I invite you to seek comfort in the presence of God. Pray with confidence, knowing that you are loved beyond words and protected by the divine hand. May each prayer be a testament to your unwavering faith and a source of strength to face life's challenges. I am by your side, enveloping you with my mantle of maternal love and interceding for you at the throne of grace."
+      ]
+    },
+    "prayer": {
+      "jaculatory-1": [
+        "Queen of Apostles, pray for us."
+      ],
+      "jaculatory-2": [
+        "Sweet Heart of Mary, be my salvation."
+      ],
+      "jaculatory-3": [
+        "My Mother, preserve me today from mortal sin."
+      ],
+      "jaculatory-4": [
+        "Blessed be the Holy and Immaculate Conception of the Blessed Virgin Mary, Mother of God."
+      ],
+      "jaculatory-5": [
+        "O Mary conceived without sin, pray for us who have recourse to You."
+      ],
+      "jaculatory-6": [
+        "Allow me, O Holy Virgin, to praise You. Give me strength against my enemies."
+      ],
+      "jaculatory-7": [
+        "Mother of Beautiful Love, help Your children."
+      ],
+      "jaculatory-8": [
+        "My Mother, confidence and hope, in You I trust and abandon myself."
+      ],
+      "jaculatory-9": [
+        "Mary, I entrust my purity to You, take care of it."
+      ],
+      "jaculatory-10": [
+        "Immaculate Queen of peace, give us peace."
+      ],
+      "lords-prayer": [
+        "Our Father, Who art in heaven,",
+        "Hallowed be Thy Name.",
+        "Thy Kingdom come.",
+        "Thy Will be done",
+        "on earth as it is in Heaven.",
+        "Give us this day our daily bread.",
+        "And forgive us our trespasses,",
+        "as we forgive those who trespass against us.",
+        "And lead us not into temptation,",
+        "but deliver us from evil.",
+        "Amen."
+      ],
+      "hail-mary": [
+        "Hail Mary, full of grace,",
+        "The Lord is with thee,",
+        "Blessed art thou among women,",
+        "And blessed is the fruit of thy womb, Jesus.",
+        "Holy Mary, Mother of God,",
+        "Pray for us sinners,",
+        "Now and at the hour of our death.",
+        "Amen."
+      ],
+      "hail-queen": [
+        "Hail, Holy Queen, Mother of mercy,",
+        "Our life, our sweetness, and our hope.",
+        "To thee do we cry, poor banished children of Eve.",
+        "To thee do we send up our sighs,",
+        "Mourning and weeping in this valley of tears.",
+        "Turn then, most gracious advocate,",
+        "Thine eyes of mercy toward us,",
+        "And after this, our exile,",
+        "Show unto us the blessed fruit of thy womb, Jesus.",
+        "O clement, O loving, O sweet Virgin Mary.",
+        "Pray for us, O Holy Mother of God,",
+        "That we may be made worthy of the promises of Christ."
+      ],
+      "glory": [
+        "Glory be to the Father, and to the Son,",
+        "and to the Holy Spirit.",
+        "As it was in the beginning,",
+        "is now, and ever shall be.",
+        "Amen."
+      ],
+      "consecration": [
+        "O my Lady, O my Mother,",
+        "I offer myself entirely to you",
+        "And to show my devotion to you,",
+        "I consecrate to you this day and forever",
+        "My eyes, my ears, my mouth,",
+        "My heart and my whole being.",
+        "Because I am yours, O incomparable Mother,",
+        "Keep and defend me as your property and possession.",
+        "Amen."
+      ],
+      "magnificat": [
+        "My soul proclaims the greatness of the Lord,",
+        "my spirit rejoices in God my Savior",
+        "for he has looked with favor on his lowly servant.",
+        "From this day all generations will call me blessed:",
+        "the Almighty has done great things for me,",
+        "and holy is his Name.",
+        "He has mercy on those who fear him",
+        "in every generation.",
+        "He has shown the strength of his arm,",
+        "he has scattered the proud in their conceit.",
+        "He has cast down the mighty from their thrones,",
+        "and has lifted up the lowly.",
+        "He has filled the hungry with good things,",
+        "and the rich he has sent away empty.",
+        "He has come to the help of his servant Israel",
+        "or he remembered his promise of mercy,",
+        "the promise he made to our fathers,",
+        "to Abraham and his children forever."
+      ]
+    },
+    "final_message": {
+      "strings-1": [
+        "May the peace and serenity you felt in prayer remain with you, like the calm of dawn. As you continue your path, carry with you the certainty that God guides you in every step. May your faith illuminate your journey, inspiring you to live with love and compassion. Always remember that I am by your side, supporting you with my maternal love and interceding for you before the Heavenly Father. May God bless and guide you today and always."
+      ],
+      "strings-2": [
+        "After this moment of prayer, may your heart be filled with gratitude and hope, like the renewal of the seasons. May God's loving presence continue to protect and guide you. Keep the faith alive in your soul, knowing that every prayer was heard. I am with you, enveloped in my maternal love, supporting and interceding for you. Go in peace, with God's blessing."
+      ],
+      "strings-3": [
+        "As you conclude this time of prayer, carry with you the peace you found and the certainty of God's infinite love, like the vastness of the ocean. May your faith be your guide, illuminating each day with hope and kindness. Remember that I am always present, guiding you with my maternal love and interceding for you before the Heavenly Father. May God's grace accompany and bless your journey."
+      ],
+      "strings-4": [
+        "May the tranquility and strength you received in prayer continue to accompany you, like the firmness of the mountains. As you continue your path, carry with you the certainty that you are not alone, for God walks with you. May your life be a reflection of divine light, radiating love and compassion. I am with you, enveloped in my mantle of maternal love, supporting and interceding for you. May God bless and guide you always."
+      ],
+      "strings-5": [
+        "After this moment of communion with the divine, carry with you the peace and serenity you found, like a blooming garden. May your faith remain firm and guide you at all times. Know that I am always by your side, interceding for you and enveloping you with my maternal love. Go in peace, with God's blessing, and may your path be illuminated by divine love."
+      ],
+      "strings-6": [
+        "At the end of this moment of prayer, may your heart be full of peace and hope, like a tranquil sunset. May God's loving presence continue to guide and protect you. Remember that I am always with you, interceding for you and supporting you with my maternal love. Go with God's blessing, and may your life be a reflection of His light and love."
+      ]
+    }
+  }
+}
