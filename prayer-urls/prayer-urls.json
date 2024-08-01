@@ -1,0 +1,32 @@
+{
+  "prayers": {
+    "glory": {
+      "pt": "https://example.com/gloria",
+      "en": "https://example.com/glory"
+    },
+    "hailMary": {
+      "pt": "https://example.com/ave-maria",
+      "en": "https://example.com/hail-mary"
+    },
+    "lordsPrayer": {
+      "pt": "https://example.com/pai-nosso",
+      "en": "https://example.com/lords-prayer"
+    },
+    "hailQueen": {
+      "pt": "https://example.com/salve-rainha",
+      "en": "https://example.com/hail-queen"
+    },
+    "consecration": {
+      "pt": "https://example.com/consagracao",
+      "en": "https://example.com/consecration"
+    },
+    "jaculatories": {
+      "pt": "https://example.com/jaculatorias",
+      "en": "https://example.com/jaculatories"
+    },
+    "magnificat": {
+      "pt": "https://pt.wikipedia.org/wiki/Magnificat",
+      "en": "https://www.ourcatholicprayers.com/magnificat.html"
+    }
+  }
+}
