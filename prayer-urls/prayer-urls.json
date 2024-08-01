@@ -1,31 +1,31 @@
 {
   "prayers": {
-    "glory": {
-      "pt": "https://example.com/gloria",
-      "en": "https://example.com/glory"
+    "gloryBe": {
+      "pt": "https://hozana.org/pt/oracao/gloria-ao-pai",
+      "en": "https://prayerist.com/prayer/glorybe"
     },
     "hailMary": {
-      "pt": "https://example.com/ave-maria",
-      "en": "https://example.com/hail-mary"
+      "pt": "https://santuariodefatima.pt/oracao-ave-maria/",
+      "en": "https://prayerist.com/prayer/hailmaryprayer"
     },
     "lordsPrayer": {
-      "pt": "https://example.com/pai-nosso",
-      "en": "https://example.com/lords-prayer"
+      "pt": "https://formacao.cancaonova.com/igreja/catequese/entenda-cada-parte-da-oracao-do-pai-nosso/",
+      "en": "https://www.crosswalk.com/faith/prayer/the-lords-prayer-be-encouraged-and-strengthened.html"
     },
     "hailQueen": {
-      "pt": "https://example.com/salve-rainha",
-      "en": "https://example.com/hail-queen"
+      "pt": "https://www.portaloracao.com/oracao-salve-rainha/",
+      "en": "https://marian.org/mary/prayers/hail-holy-queen-salve-regina"
     },
     "consecration": {
-      "pt": "https://example.com/consagracao",
-      "en": "https://example.com/consecration"
+      "pt": "https://www.portaloracao.com/consagracao-a-nossa-senhora/",
+      "en": "https://denvercatholic.org/what-is-consecration-and-why-do-it/"
     },
     "jaculatories": {
-      "pt": "https://example.com/jaculatorias",
-      "en": "https://example.com/jaculatories"
+      "pt": "https://pt.aleteia.org/2023/06/12/o-papa-explica-o-que-sao-as-jaculatorias-oracoes-curtas-para-o-dia-a-dia",
+      "en": "https://catholicharboroffaithandmorals.com/Ejaculatory%20Prayers.html"
     },
     "magnificat": {
-      "pt": "https://pt.wikipedia.org/wiki/Magnificat",
+      "pt": "https://santuario.cancaonova.com/artigos-religiosos/importancia-magnificat-para-liturgia/",
       "en": "https://www.ourcatholicprayers.com/magnificat.html"
     }
   }
