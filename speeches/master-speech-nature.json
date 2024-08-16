@@ -1,0 +1,338 @@
+{
+  "info": {
+    "backgrounds": [
+      "24"
+    ],
+    "images": [
+      "20"
+    ],
+    "speeches": {
+      "initial_messages": [
+        "5"
+      ],
+      "final_messages": [
+        "5"
+      ],
+      "jaculatories": [
+        "10"
+      ]
+    }
+  },
+  "pt": {
+    "one_minute_messages": {
+      "part-1": {
+        "strings-1": [
+          "Sei que a correria do quotidiano muitas vezes nos afasta dos momentos de introspecção, mas convido-te a fazer uma pausa para a oração. Mesmo que seja apenas por alguns instantes, esse tempo dedicado a Deus pode trazer clareza e serenidade. Reza com o coração aberto, e sentirás a minha presença divina a renovar as tuas forças. Estarei ao teu lado, guiando-te e protegendo-te com o meu amor maternal."
+        ]
+      },
+      "part-2": {
+        "strings-1": [
+          "Experimenta aumentar o número de minutos que queres passar comigo, cada vez que apareço. Prometo que não te vais arrepender... Reza uma Avé Maria por mim e pela tua Felicidade e Paz."
+        ]
+      }
+    },
+    "initial_message": {
+      "strings-1": [
+        "Venho em paz.. Imaculada sou... Faço-me hoje presente contigo, neste cenário tranquilo de natureza... Vamos, vamos encontrar tranquilidade também nos grandes braços do Pai. Descansa agora, e vamos rezar um pouco. Reza a mim, pede-me pelas vidas dos teus amigos, dos teus familiares, pede-me pelo teu sucesso profissional... Estou aqui para ti..."
+      ],
+      "strings-2": [
+        "Venho do Céu... E puro é o meu coração... Hoje, estou aqui para te ajudar a seres mais puro também. Todos devemos apontar à Santidade. Eu sou Santa, e eterno é o meu júbilo. Convido-te então a teres essa intenção em mente enquanto estiveres a rezar a mim, durante os próximos momentos. Lembra-te, levas contigo o meu amor maternal, para sempre..."
+      ],
+      "strings-3": [
+        "Não te assustes! Habito o paraíso... Venho em Paz para falar contigo... Como estás hoje? Precisas de fazer uma pausa, de descansar? Agora é a altura certa, enquanto estou aqui contigo, neste cenário de natureza. Concentra-te e reza, reforça o teu espírito para os trabalhos que se avizinham... Conto contigo para construires o Reino, na terra..."
+      ],
+      "strings-4": [
+        "A Paz esteja contigo... Vim de um lugar Divino, onde espero que habites também, um dia... Já reparaste como a beleza da Criação se manifesta na natureza? Bonita é a terra! Façamos uma pausa para agradecer a Deus a Beleza que criou, para nós. Eu já a experienciei aquando da minha peregrinação na terra. Agora, é a tua vez... Reza, com gratidão..."
+      ],
+      "strings-5": [
+        "Venho em Paz... não tenhas medo... Sou do Céu e tenho uma mensagem para ti hoje... O nosso Pai quer que fales com Ele, que rezes... Podes rezar a mim, eu sou uma porta de ligação a Nosso Senhor... Lembra-te, eu dei à luz o Salvador, o Filho único de Deus, e recebi d'Ele a Igreja... Hoje, enquanto rezas, medita nesses mistérios. São eternos..."
+      ]
+    },
+    "prayer": {
+      "jaculatory-1": [
+        "Rainha dos Apóstolos, rogai por nós."
+      ],
+      "jaculatory-2": [
+        "Doce Coração de Maria, sejais a minha salvação."
+      ],
+      "jaculatory-3": [
+        "Mãe minha, preservai-me hoje do pecado mortal."
+      ],
+      "jaculatory-4": [
+        "Seja bendita a Santa e Imaculada Conceição da Beatíssima Virgem Maria, Mãe de Deus."
+      ],
+      "jaculatory-5": [
+        "Ó Maria concebida sem pecado, rogai por nós que recorremos a Vós."
+      ],
+      "jaculatory-6": [
+        "Deixai, ó Virgem Santa, que eu Vos louve. Dai-me força contra os meus inimigos."
+      ],
+      "jaculatory-7": [
+        "Mãe do belo Amor, ajudai os Vossos filhos."
+      ],
+      "jaculatory-8": [
+        "Mãe minha, confiança e esperança, em Vós me confio e abandono."
+      ],
+      "jaculatory-9": [
+        "Maria, Vos entrego a minha pureza, cuidai dela."
+      ],
+      "jaculatory-10": [
+        "Imaculada Rainha da paz, dai-nos a paz."
+      ],
+      "lords-prayer": [
+        "Pai Nosso que estais nos Céus,",
+        "santificado seja o vosso Nome,",
+        "venha a nós o vosso Reino,",
+        "seja feita a vossa vontade",
+        "assim na terra como no Céu.",
+        "O pão nosso de cada dia nos dai hoje,",
+        "perdoai-nos as nossas ofensas",
+        "assim como nós perdoamos a quem nos tem ofendido,",
+        "e não nos deixeis cair em tentação,",
+        "mas livrai-nos do Mal.",
+        "Ámen."
+      ],
+      "hail-mary": [
+        "Avé Maria, cheia de graça,",
+        "O Senhor é convosco,",
+        "Bendita sois vós entre as mulheres,",
+        "E bendito é o fruto do vosso ventre, Jesus.",
+        "Santa Maria, Mãe de Deus,",
+        "Rogai por nós pecadores,",
+        "Agora e na hora da nossa morte.",
+        "Ámen."
+      ],
+      "hail-queen": [
+        "Salvé, Rainha, mãe de misericórdia,",
+        "vida, doçura, esperança nossa, salvé!",
+        "A Vós bradamos, os degredados filhos de Eva.",
+        "A Vós suspiramos, gemendo e chorando",
+        "neste vale de lágrimas.",
+        "Eia, pois, advogada nossa,",
+        "esses Vossos olhos misericordiosos a nós volvei.",
+        "E, depois deste desterro,",
+        "nos mostrai Jesus, bendito fruto do Vosso ventre.",
+        "Ó clemente, ó piedosa, ó doce Virgem Maria.",
+        "Rogai por nós, Santa Mãe de Deus,",
+        "para que sejamos dignos das promessas de Cristo.",
+        "Ámen."
+      ],
+      "glory": [
+        "Glória ao Pai e ao Filho",
+        "e ao Espírito Santo.",
+        "Como era, no princípio,",
+        "agora e sempre.",
+        "Ámen."
+      ],
+      "glory3lines": [
+        "Glória ao Pai e ao Filho e ao Espírito Santo.",
+        "Como era, no princípio, agora e sempre.",
+        "Ámen."
+      ],
+      "consecration": [
+        "Ó Senhora minha, ó minha Mãe,",
+        "eu me ofereço todo a vós",
+        "e, em prova da minha devoção para convosco,",
+        "vos consagro neste dia e para sempre",
+        "os meus olhos, os meus ouvidos, a minha boca,",
+        "o meu coração e inteiramente todo o meu ser.",
+        "E porque assim sou vosso, ó incomparável Mãe,",
+        "guardai-me e defendei-me como coisa própria vossa.",
+        "Ámen."
+      ],
+      "magnificat": [
+        "A minha alma glorifica o Senhor,",
+        "E o meu espírito se alegra em Deus, meu Salvador.",
+        "Porque pôs os olhos na humildade da sua Serva:",
+        "De hoje em diante me chamarão bem aventurada todas as gerações.",
+        "O Todo-Poderoso fez em mim maravilhas:",
+        "Santo é o Seu nome.",
+        "A Sua misericórdia se estende de geração em geração",
+        "Sobre aqueles que O temem.",
+        "Manifestou o poder do Seu braço",
+        "E dispersou os soberbos.",
+        "Derrubou os poderosos de seus tronos",
+        "E exaltou os humildes.",
+        "Aos famintos encheu de bens",
+        "E aos ricos despediu de mãos vazias.",
+        "Acolheu a Israel, Seu servo,",
+        "Lembrado da Sua misericórdia,",
+        "Como tinha prometido a nossos pais,",
+        "A Abraão e à sua descendência para sempre"
+      ]
+    },
+    "final_message": {
+      "strings-1": [
+        "Lembra-te de que eu era apenas uma jovem judia, humilde e devota, de Nazaré, uma pequena aldeia na Galileia... e foi aí que recebi a notícia de que viria a ser mãe do Salvador... Que maravilha! 'Eis A escrava do Senhor', respondi, rejubilando por dentro... Sê corajoso hoje e responde ao Seu chamamento divino, tal como eu fiz, há séculos atrás..."
+      ],
+      "strings-2": [
+        "Retorna aos teus afazeres, com o coração renovado pela oração... gratidão e esperança, essas são as palavras que mais deverão estar no teu pensamento hoje. Gratidão pelo momento de fé e serenidade que tivemos... E esperança, de que a tua vida seja repleta de coisas boas e felicidade. Deus te concederá tal graça, se continuares a rezar..."
+      ],
+      "strings-3": [
+        "Ao encerrares este tempo de oração, leva contigo a certeza de que o amor de Deus é maior que a vastidão do oceano... É infinito! Estou contigo... intercedo por ti junto ao Meu Filho. Reza todos os dias, e medita na Palavra, isso vai-te ajudar a cresceres na fé. Recebe também o Corpo do meu Filho na Eucaristia. É um privilégio poderes fazê-lo..."
+      ],
+      "strings-4": [
+        "Terminamos por aqui este momento de oração. Espero que tenha sido uma boa 'escapadela' à tua rotina pesada de trabalho ou estudo. Também tens que descansar, claro! A melhor forma de o fazeres, é ofereceres o que produzes profissionalmente ou academicamente a mim. Eu me irei certificar do teu sucesso. Pede-me, também, um descanso que dê frutos..."
+      ],
+      "strings-5": [
+        "Após este momento de união comigo e com o teu Pai, leva contigo de volta aos teus afazeres a paz que encontraste durante estas orações. A tua fé saiu fortalecida, disso podes ter a certeza. Irei regressar em breve, talvez quando menos esperares, para estimular mais a tua fé e te proporcionar descanso merecido... Lembra-te, sou a tua Mãe do Céu..."
+      ]
+    }
+  },
+  "en": {
+    "one_minute_messages": {
+      "part-1": {
+        "strings-1": [
+          "I know that the hustle and bustle of everyday life often takes us away from moments of introspection, but I invite you to pause for prayer. Even if it's just for a few moments, this time dedicated to God can bring you clarity and serenity. Pray with an open heart and you will feel my divine presence renewing your strength. I will be by your side, guiding you and protecting you with my maternal love."
+        ]
+      },
+      "part-2": {
+        "strings-1": [
+          "Try increasing the number of minutes you want to spend with me, every time I appear. I promise you won't regret it... Pray a Hail Mary for me and for your happiness and peace."
+        ]
+      }
+    },
+    "initial_message": {
+      "strings-1": [
+        "I come in peace. Immaculate I am... I am present with you today, in this peaceful, natural setting... Come, let's also find peace in the great loving arms of the Father. Rest now, and let's pray a bit. Talk to me, pray for the lives of your friends and family members. Pray for your professional success... I'm here for you..."
+      ],
+      "strings-2": [
+        "I come from Heaven... And pure is my heart... Today, I'm here to help you be purer too. We must all aim for Holiness. I am a Saint, and my joy is eternal. So I invite you to keep this intention in mind while you are praying to me, during the next few moments. Remember, you carry my motherly love with you, forever..."
+      ],
+      "strings-3": [
+        "Don't be scared! I inhabit Paradise, a place of true wonder... I come in peace to talk to you... How are you today? Do you need a break, a rest? Now is the right time, while I'm here with you in this natural landscape. Concentrate and pray, strengthen your spirit for the work ahead... I'm counting on you to build the Kingdom on earth..."
+      ],
+      "strings-4": [
+        "Peace be with you... I come from a Divine place, where I hope you too will reside one day... Have you ever noticed how the beauty of Creation manifests itself in nature? Beautiful is the earth! Let's thank God for the Beauty he has created for us. I already experienced it during my pilgrimage on earth. Now it's your turn... Pray with gratitude..."
+      ],
+      "strings-5": [
+        "Dear child... don't be scared... I am from Heaven and I have a message for you today... Our Father wants you to talk to Him, to pray... You can pray to me, I am a gateway to Our Lord... Remember, I bore the Savior, the Lord's only Son, and received the Church from Him... Today, while you pray, meditate on those mysteries. They are eternal..."
+      ]
+    },
+    "prayer": {
+      "jaculatory-1": [
+        "Queen of Apostles, pray for us."
+      ],
+      "jaculatory-2": [
+        "Sweet Heart of Mary, be my salvation."
+      ],
+      "jaculatory-3": [
+        "My Mother, preserve me today from mortal sin."
+      ],
+      "jaculatory-4": [
+        "Blessed be the Holy and Immaculate Conception of the Blessed Virgin Mary, Mother of God."
+      ],
+      "jaculatory-5": [
+        "O Mary conceived without sin, pray for us who have recourse to You."
+      ],
+      "jaculatory-6": [
+        "Allow me, O Holy Virgin, to praise You. Give me strength against my enemies."
+      ],
+      "jaculatory-7": [
+        "Mother of Beautiful Love, help Your children."
+      ],
+      "jaculatory-8": [
+        "My Mother, confidence and hope, in You I trust and abandon myself."
+      ],
+      "jaculatory-9": [
+        "Mary, I entrust my purity to You, take care of it."
+      ],
+      "jaculatory-10": [
+        "Immaculate Queen of peace, give us peace."
+      ],
+      "lords-prayer": [
+        "Our Father, Who art in heaven,",
+        "Hallowed be Thy Name.",
+        "Thy Kingdom come.",
+        "Thy Will be done",
+        "on earth as it is in Heaven.",
+        "Give us this day our daily bread.",
+        "And forgive us our trespasses,",
+        "as we forgive those who trespass against us.",
+        "And lead us not into temptation,",
+        "but deliver us from evil.",
+        "Amen."
+      ],
+      "hail-mary": [
+        "Hail Mary, full of grace,",
+        "The Lord is with thee,",
+        "Blessed art thou among women,",
+        "And blessed is the fruit of thy womb, Jesus.",
+        "Holy Mary, Mother of God,",
+        "Pray for us sinners,",
+        "Now and at the hour of our death.",
+        "Amen."
+      ],
+      "hail-queen": [
+        "Hail, Holy Queen, Mother of mercy,",
+        "Our life, our sweetness, and our hope.",
+        "To thee do we cry, poor banished children of Eve.",
+        "To thee do we send up our sighs,",
+        "Mourning and weeping in this valley of tears.",
+        "Turn then, most gracious advocate,",
+        "Thine eyes of mercy toward us,",
+        "And after this, our exile,",
+        "Show unto us the blessed fruit of thy womb, Jesus.",
+        "O clement, O loving, O sweet Virgin Mary.",
+        "Pray for us, O Holy Mother of God,",
+        "That we may be made worthy of the promises of Christ.",
+        "Amen."
+      ],
+      "glory": [
+        "Glory be to the Father, and to the Son,",
+        "and to the Holy Spirit.",
+        "As it was in the beginning,",
+        "is now, and ever shall be,",
+        "world without end. Amen."
+      ],
+      "consecration": [
+        "O my Lady, O my Mother,",
+        "I offer myself entirely to you",
+        "And to show my devotion to you,",
+        "I consecrate to you this day and forever",
+        "My eyes, my ears, my mouth,",
+        "My heart and my whole being.",
+        "Because I am yours, O incomparable Mother,",
+        "Keep and defend me as your property and possession.",
+        "Amen."
+      ],
+      "magnificat": [
+        "My soul proclaims the greatness of the Lord,",
+        "my spirit rejoices in God my Savior",
+        "for he has looked with favor on his lowly servant.",
+        "From this day all generations will call me blessed:",
+        "the Almighty has done great things for me,",
+        "and holy is his Name.",
+        "He has mercy on those who fear him",
+        "in every generation.",
+        "He has shown the strength of his arm,",
+        "he has scattered the proud in their conceit.",
+        "He has cast down the mighty from their thrones,",
+        "and has lifted up the lowly.",
+        "He has filled the hungry with good things,",
+        "and the rich he has sent away empty.",
+        "He has come to the help of his servant Israel",
+        "or he remembered his promise of mercy,",
+        "the promise he made to our fathers,",
+        "to Abraham and his children forever."
+      ]
+    },
+    "final_message": {
+      "strings-1": [
+        "I was just a young, humble and devout Jewish girl, living in Nazareth, Galilee... then I received the news that I would become the Savior's mother... How amazing! I got to bear Jesus in my womb... 'I am the Lord's servant,' I answered, rejubilating on the inside... So be courageous and answer His divine calling to you, as I did, centuries ago..."
+      ],
+      "strings-2": [
+        "Return to your tasks with your heart renewed by prayer... gratitude and hope. Those are the words that should be uppermost in your mind today. Gratitude for the moment of faith and serenity we had... And hope that your life will be filled with good things and happiness. God will grant you that grace, so long as you keep praying..."
+      ],
+      "strings-3": [
+        "As you conclude your prayer, take home the certainty that God's love is greater than the vastness of the ocean... It is infinite! I am with you... I intercede for you before My Son. Pray every day and meditate on the Word, it will help you to grow in faith. Also receive the Body of my Son in the Eucharist. It is a privilege to be able to do so..."
+      ],
+      "strings-4": [
+        "That concludes this moment of prayer. I hope it was a good escape from your heavy work or study routine. You also have to rest, of course! The best way to do this is to offer me what you are producing professionally or academically. I'll make sure you succeed. Also, ask me for a fruitful period of rest. I'll help you achieve that..."
+      ],
+      "strings-5": [
+        "After this moment of union with Me and your Father, return to your work with the peace you found during these prayers. Your faith has been strengthened, you can be sure of that. I'll be back soon, perhaps when you least expect it, to boost your faith and give you some well-deserved rest... Remember, I am your heavenly Mother..."
+      ]
+    }
+  }
+}
