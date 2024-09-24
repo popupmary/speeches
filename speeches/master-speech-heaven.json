@@ -8,7 +8,7 @@
     ],
     "speeches": {
       "initial_messages": [
-        "5"
+        "7"
       ],
       "final_messages": [
         "5"
@@ -49,6 +49,12 @@
       ],
       "strings-5": [
         "Querida Mãe, eu amo-te... É isso que quero que me digas todos os dias! Venho de um lugar celestial. Sou a tua Santa Mãe. Rezemos hoje e agradeçamos a Deus por estarmos aqui, de boa saúde. Eu não tenho de me preocupar com ter saúde, pois habito um lugar especial. Um dia, também não terás de te preocupar com a tua saúde. Reza, com isso em mente..."
+      ],
+      "strings-6": [
+        "Sou a tua Mãe do Céu! Parece-me que estás a precisar de uns minutos de oração... deixa o que estavas a fazer de parte agora, durante uns minutos, e reza para mim. Pede-me pelas amizades que queres construir e agradece-me pelas que já tens. A verdadeira amizade em Cristo: são laços que te santificam..."
+      ],
+      "strings-7": [
+        "Venho de um lugar perfeito, hoje, para te lembrar que a tua fé necessita de ser alimentada. Como uma fogueira: sem mais lenha, se apagará. Pois bem, faz uma pausa agora. Eu ficarei aqui ao teu lado, não te deixarei só! A cada Avé Maria que rezas, pede-me por alguém que amas... E, no final, pede pela tua própria santificação..."
       ]
     },
     "prayer": {
@@ -213,6 +219,12 @@
       ],
       "strings-5": [
         "Dear Mother, I love you... That is what I want you to say every day, to me! I come from a Heavenly place. I am your Holy Mother. Let us pray today, and thank God for being here, in good health. I don't have to worry about my health, as I inhabit a special place. One day, you won't have to worry about it either. Pray, with that in mind..."
+      ],
+      "strings-6": [
+        "I'm your Heavenly Mother! It seems to me that you need a few minutes of prayer... leave what you were doing aside now, for a few minutes, and pray to me. Ask me for the friendships you want to build and thank me for the ones you already have. True friendship in Christ: these are bonds that sanctify you..."
+      ],
+      "strings-7": [
+        "Today, I've come from a perfect place to remind you that your faith needs to be fed. Like a fire: without more wood, it will go extinct. So, take a break now. I'll be here by your side, I won't leave you alone! With every Hail Mary you pray, ask me for someone you love... And in the end, ask for your own sanctification..."
       ]
     },
     "prayer": {
